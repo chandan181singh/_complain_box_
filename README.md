@@ -3,8 +3,9 @@
 # Introduction...
 * Complaint Box for the common people's Basic neccessity
 # 
-**Basics features**
-#
+
+***Basics features***
+
 * User SignIn/SignUp
 
 * User Email Verification
@@ -41,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-## Contributors ##
+## Contributors.. ##
 
 * [Chandan Kumar](https://github.com/chandan181singh)
 
