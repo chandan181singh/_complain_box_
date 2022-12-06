@@ -29,18 +29,20 @@
                 <h1 id="complain">
                     <% if(typeof message !=='undefined' ){ %>
                         <center>
-                          <div style="width: 350px; border-radius: 20px;">
-                          <h4 style="color: white; background-color: rgb(216, 216, 4); font-weight: 700;">
-                             <%= message %> !!!
-                             <br>
-                         </h4></div>
+                            <div style="width: 350px; border-radius: 20px;">
+                                <h4 style="color: white; background-color: rgb(216, 216, 4); font-weight: 700;">
+                                    <%= message %> !!!
+                                        <br>
+                                </h4>
+                            </div>
                         </center>
                         <% } %>
-                    <u>
-                        <center><b>Your Complain</b></center>
-                    </u></h1>
+                            <u>
+                                <center><b>Your Complain</b></center>
+                            </u>
+                </h1>
                 <br>
-              <!--   <div id="complain-form">
+                <!--   <div id="complain-form">
                     <select name="customcomplain" class="form-select" aria-label="Disabled select example">
                         <option selected>
                             <%= complain.customcomplain %>
@@ -70,40 +72,41 @@
 
 
                 <% if(complain.length> 0){
-                    for(let i = 0; i<complain.length; i++){ %>
-                        <div id="complain-form">
-                            <select name="customcomplain" class="form-select" aria-label="Disabled select example">
-                                <option selected>
-                                    <%= complain[i].customcomplain %>
-                                </option>
-                                <option value="Electricity Problem">Electricity Problem</option>
-                                <option value="Water Problem">Water Problem</option>
-                                <option value="Subsidy Problem">Subsidy Problem</option>
-                                <option value="LPG gas related Problem">LPG gas related Problem</option>
-                            </select>
-                            <br>
-                            <div class="mb-3">
-                                <label for="exampleFormControlTextarea1" class="form-label"><u>Write other Complain
-                                        here</u></label>
-                                <textarea name="complain" class="form-control" id="exampleFormControlTextarea1" rows="3"
-                                    placeholder="write here..."><%= complain[i].complain %></textarea>
-                            </div>
-                            <label style="font: size 1.2em; font-weight:700 " for="text"><u>Your uploaded pdf</u></label>
-        
-                            <iframe src="userpdfcomplain/<%= complain[i].pdf %>" frameborder="2px"></iframe>
-                            <br>
-                            <div class="d-grid gap-2 col-6 .mx-auto">
-                                <a class="btn btn-warning" href="/editcomplain?id=<%= complain[i]._id%>" role="button">Edit</a>
-                              </div>
+                    for(let i = complain.length - 1; i >= 0; i--){ %>
+                    <div id="complain-form">
+                        <select name="customcomplain" class="form-select" aria-label="Disabled select example">
+                            <option selected>
+                                <%= complain[i].customcomplain %>
+                            </option>
+                            <option value="Electricity Problem">Electricity Problem</option>
+                            <option value="Water Problem">Water Problem</option>
+                            <option value="Subsidy Problem">Subsidy Problem</option>
+                            <option value="LPG gas related Problem">LPG gas related Problem</option>
+                        </select>
+                        <br>
+                        <div class="mb-3">
+                            <label for="exampleFormControlTextarea1" class="form-label"><u>Write other Complain
+                                    here</u></label>
+                            <textarea name="complain" class="form-control" id="exampleFormControlTextarea1" rows="3"
+                                placeholder="write here..."><%= complain[i].complain %></textarea>
                         </div>
-                        <br> <br><br>
-                      <% } } %>
+                        <label style="font: size 1.2em; font-weight:700 " for="text"><u>Your uploaded pdf</u></label>
+
+                        <iframe src="userpdfcomplain/<%= complain[i].pdf %>" frameborder="2px"></iframe>
+                        <br>
+                        <div class="d-grid gap-2 col-6 .mx-auto">
+                            <a class="btn btn-warning" href="/editcomplain?id=<%= complain[i]._id%>"
+                                role="button">Edit</a>
+                        </div>
+                    </div>
+                    <br><br><br><br>
+                    <% } } %>
                         <div class="d-grid gap-2 col-6 .mx-auto">
                             <a class="btn btn-primary" href="/home" role="button">Back</a>
                         </div>
-                </center>
-              
-            </div> 
+    </center>
+
+    </div>
     </center>
     </div>
 
