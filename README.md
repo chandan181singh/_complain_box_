@@ -1,10 +1,9 @@
-# _complain_box_ #
+# _Complain_box_ #
 
-# Introduction
+# Introduction...
+* Complain Box for the common people's Basic neccessity
 
-# **Complain Box for the common people's Basic neccessity
-
-**Basics features**
+# **Basics features**
 
 * User SignIn/SignUp
 
@@ -30,7 +29,7 @@
 * View user complains and Delete Complains 
 
 
-
+#
 # _TECH_STACK_
 
 <div>
@@ -41,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
+#
 ## Contributors ##
 
 * [Chandan Kumar](https://github.com/chandan181singh)
