@@ -1,32 +1,32 @@
-# _Complain_box_ #
+# _Complaint_box_ #
 
 # Introduction...
-* Complain Box for the common people's Basic neccessity
-
-# **Basics features**
-
+* Complaint Box for the common people's Basic neccessity
+# 
+**Basics features**
+#
 * User SignIn/SignUp
 
 * User Email Verification
 
 * Reset Password in case of Forgotten Password
 
-* User Complain
+* User Complaint
 
-  -> Custom Complains
+  -> Custom Complaints
   
-  -> Descriptive Complains
+  -> Descriptive Complaints
   
-  -> Complains in PDF format
+  -> Complaints in PDF format
   
   
 * User can  view and edit his Profile including email
 
-* User can view and edit his current or previous Complains
+* User can view and edit his current or previous Complaints
 
 * Admin SignIn / edit profile
 
-* View user complains and Delete Complains 
+* View user complaints and Delete Complaints 
 
 
 #
