@@ -1,33 +1,33 @@
-# _complain_box_#
+# _complain_box_ #
 
-#Introduction
+# Introduction
 
-#**Complain Box for the common people's Basic neccessity
+# **Complain Box for the common people's Basic neccessity
 
 **Basics features**
 
-*User SignIn/SignUp
+* User SignIn/SignUp
 
-*User Email Verification
+* User Email Verification
 
-*Reset Password in case of Forgotten Password
+* Reset Password in case of Forgotten Password
 
-*User Complain
+* User Complain
 
-  ->Custom Complains
+  -> Custom Complains
   
-  ->Descriptive Complains
+  -> Descriptive Complains
   
-  ->Complains in PDF format
+  -> Complains in PDF format
   
   
-*User can  view and edit his Profile including email
+* User can  view and edit his Profile including email
 
-*User can view and edit his current or previous Complains
+* User can view and edit his current or previous Complains
 
-*Admin SignIn / edit profile
+* Admin SignIn / edit profile
 
-*View user complains and Delete Complains 
+* View user complains and Delete Complains 
 
 
 
@@ -42,3 +42,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## Contributors ##
+
+* [Chandan Kumar](https://github.com/chandan181singh)
+
+* [Diksha Jaiswal](https://github.com/dikshajaiswal855)
+
+
+ 
