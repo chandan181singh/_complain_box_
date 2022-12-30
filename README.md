@@ -39,6 +39,8 @@
 # _TECH_STACK_
 
 <div>
+  <img src="https://img.icons8.com/stickers/100/000000/css3.png"/>
+
   <img src="https://p1.hiclipart.com/preview/326/868/1022/css3-badge-blue-and-white-css-icon-png-clipart.jpg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
