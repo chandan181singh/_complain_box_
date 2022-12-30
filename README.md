@@ -39,13 +39,12 @@
 # _TECH_STACK_
 
 <div>
-  <img src="https://img.icons8.com/stickers/100/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>  &nbsp;
 </div>
 
 ## Contributors.. ##
